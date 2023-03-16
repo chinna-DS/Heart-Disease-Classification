@@ -1,1 +1,1 @@
-# Heart-Disease-Cllasification
+# Heart-Disease-Classification
